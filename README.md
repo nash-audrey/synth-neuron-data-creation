@@ -1,0 +1,3 @@
+- someplace in the .py file header there is a place to include or exclude different files with beta distribution parameters. These can be changed for different purposes
+-   weird sinkhorn results come from looking at the beta distribution templates between 5 and 6, where there are 50 linear interpolations between them.
+-   typically use the distribtuions for the 10 templates that are pictured
